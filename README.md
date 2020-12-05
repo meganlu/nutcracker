@@ -4,6 +4,6 @@ open when matched; from husk to shell to fruit, etc.). Levels get increasingly d
 I designed all backgrounds, sprites, interfaces, and animations using Adobe Suite.
 
 
-![Play Screen](images/gameplay.PNG)
-![Level Screen](images/level.PNG)
-![Title Screen](images/title.PNG)
+![Play Screen](images/gameplay.png)
+![Level Screen](images/level.png)
+![Title Screen](images/title.png)
